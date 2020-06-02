@@ -1,5 +1,5 @@
 # algorithms
 
-算法学习：
+Learn data structure and algorithms below: 
 
-* 1、栈的运用
+* stack
